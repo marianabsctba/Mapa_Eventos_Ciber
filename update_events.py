@@ -32,7 +32,7 @@ def main():
             item["status"] = "CONFIRMADO"
             future.append(item)
     payload = {"updated_at": datetime.now(timezone.utc).isoformat(), "events": sorted(future, key=lambda x: x["start"])}
-    out = Path("data/events.json"); out.parent.mkdir(parents=True, exist_ok=True)
+    out = Path("events.json")
     out.write_text(json.dumps(payload, ensure_ascii=False, indent=2)+"\n", encoding="utf-8")
     print(f"Publicados {len(future)} eventos futuros")
 
