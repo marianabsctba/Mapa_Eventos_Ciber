@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T09:00:12.922295+00:00",
+  "updated_at": "2026-08-17T11:43:58.334682+00:00",
   "events": [
     {
       "name": "Oxum Sec",
@@ -580,6 +580,18 @@
       "url": "https://www.isaca.org/chapters5/sao-paulo",
       "tentative": true,
       "status": "NO RADAR"
+    },
+    {
+      "name": "BSides Curitiba 2026",
+      "start": "2026-10-17",
+      "end": "2026-10-17",
+      "city": "Curitiba - PR",
+      "country": "Brasil",
+      "format": "presencial",
+      "category": "Comunidade & Ofensiva",
+      "description": "Conferência feita pela comunidade, com palestras técnicas, workshops, villages, CTF e networking na PUCPR.",
+      "url": "https://bsidescwb.com.br/",
+      "status": "CONFIRMADO"
     },
     {
       "name": "ISC2 Security Congress",
