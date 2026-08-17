@@ -57,6 +57,7 @@ EVENTS = [
  {"name":"Futurecom 2026","start":"2026-10-06","end":"2026-10-08","city":"São Paulo - SP","country":"Brasil","format":"presencial","category":"Cloud, IA & Segurança","description":"Infraestrutura digital, cloud, segurança, soberania e regulação em um grande fórum de tecnologia.","url":"https://www.futurecom.com.br/"},
  {"name":"Black Hat Canada","start":"2026-10-06","end":"2026-10-08","city":"Toronto","country":"Canadá","format":"presencial","category":"Ofensiva & Pesquisa","description":"Briefings técnicos e pesquisa aplicada no formato internacional da Black Hat.","url":"https://www.blackhat.com/"},
  {"name":"European Cybersecurity Challenge","start":"2026-10-12","end":"2026-10-16","city":"Europa","country":"União Europeia","format":"presencial","category":"CTF & Talentos","description":"Competição europeia organizada pela ENISA para novos talentos em cibersegurança.","url":"https://ecsc.eu/"},
+ {"name":"BSides Curitiba 2026","start":"2026-10-17","end":"2026-10-17","city":"Curitiba - PR","country":"Brasil","format":"presencial","category":"Comunidade & Ofensiva","description":"Conferência feita pela comunidade, com palestras técnicas, workshops, villages, CTF e networking na PUCPR.","url":"https://bsidescwb.com.br/"},
  {"name":"ISC2 Security Congress","start":"2026-10-19","end":"2026-10-22","city":"Nashville, TN","country":"Estados Unidos","format":"híbrido","category":"Profissionais & Carreira","description":"Conteúdo técnico e estratégico para profissionais certificados e líderes de segurança.","url":"https://www.isc2.org/congress"},
  {"name":"II CIGRE Security 2026","start":"2026-10-28","end":"2026-10-29","city":"São Paulo - SP","country":"Brasil","format":"presencial","category":"Infraestrutura Crítica","description":"Seminário técnico de cibersegurança para energia, automação e ambientes de missão crítica.","url":"https://ce-d2.cigre.org.br/"},
  {"name":"OWASP Global AppSec","start":"2026-11-03","end":"2026-11-05","city":"Estados Unidos","country":"Estados Unidos","format":"presencial","category":"AppSec","description":"Conferência global da OWASP dedicada à segurança de aplicações e software.","url":"https://owasp.org/events/"},
@@ -65,7 +66,7 @@ EVENTS = [
 ]
 
 def main():
-    confirmed = {"FortalSec 2026", "BSidesSP 2026", "BSides Recife", "BSides VIX", "Fórum Brasileiro de CSIRTs", "SBSeg 2026", "CyberSecGo 2026", "Mind The Sec 2026", "Cyber Security Summit Brasil", "Futurecom 2026", "II CIGRE Security 2026", "IT Summit Nacional 2026", "Billington CyberSecurity Summit", "Blue Team Con", "Black Hat Canada", "European Cybersecurity Challenge", "ISC2 Security Congress", "OWASP Global AppSec", "Black Hat Middle East & Africa"}
+    confirmed = {"FortalSec 2026", "BSidesSP 2026", "BSides Recife", "BSides VIX", "BSides Curitiba 2026", "Fórum Brasileiro de CSIRTs", "SBSeg 2026", "CyberSecGo 2026", "Mind The Sec 2026", "Cyber Security Summit Brasil", "Futurecom 2026", "II CIGRE Security 2026", "IT Summit Nacional 2026", "Billington CyberSecurity Summit", "Blue Team Con", "Black Hat Canada", "European Cybersecurity Challenge", "ISC2 Security Congress", "OWASP Global AppSec", "Black Hat Middle East & Africa"}
     archive_cutoff = date(2026, 1, 1)
     published = []
     for event in EVENTS:
