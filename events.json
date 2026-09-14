@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T13:18:17.927107+00:00",
+  "updated_at": "2026-09-14T15:00:10.035890+00:00",
   "events": [
     {
       "name": "Oxum Sec",
@@ -493,7 +493,7 @@
       "category": "Defesa",
       "description": "Conferência dedicada a blue team, detecção, resposta e operações defensivas.",
       "url": "https://blueteamcon.com/",
-      "status": "CONFIRMADO"
+      "status": "ENCERRADO"
     },
     {
       "name": "Mind The Sec 2026",
