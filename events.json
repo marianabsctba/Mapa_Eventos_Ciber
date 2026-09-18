@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T13:25:53.417646+00:00",
+  "updated_at": "2026-09-18T12:57:30.230178+00:00",
   "events": [
     {
       "name": "Oxum Sec",
@@ -505,7 +505,7 @@
       "category": "Mercado & Técnica",
       "description": "Grande encontro latino-americano de cybersecurity para especialistas, gestores e CISOs.",
       "url": "https://www.mindthesec.com.br/",
-      "status": "CONFIRMADO"
+      "status": "ENCERRADO"
     },
     {
       "name": "BHack Conference",
