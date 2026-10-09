@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T15:34:56.817520+00:00",
+  "updated_at": "2026-10-09T15:17:06.722743+00:00",
   "events": [
     {
       "name": "Oxum Sec",
@@ -542,7 +542,7 @@
       "category": "Cloud, IA & Segurança",
       "description": "Infraestrutura digital, cloud, segurança, soberania e regulação em um grande fórum de tecnologia.",
       "url": "https://www.futurecom.com.br/",
-      "status": "CONFIRMADO"
+      "status": "ENCERRADO"
     },
     {
       "name": "Black Hat Canada",
@@ -554,7 +554,7 @@
       "category": "Ofensiva & Pesquisa",
       "description": "Briefings técnicos e pesquisa aplicada no formato internacional da Black Hat.",
       "url": "https://www.blackhat.com/",
-      "status": "CONFIRMADO"
+      "status": "ENCERRADO"
     },
     {
       "name": "European Cybersecurity Challenge",
