@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T13:14:04.074821+00:00",
+  "updated_at": "2026-10-17T12:10:08.296726+00:00",
   "events": [
     {
       "name": "Oxum Sec",
@@ -566,7 +566,7 @@
       "category": "CTF & Talentos",
       "description": "Competição europeia organizada pela ENISA para novos talentos em cibersegurança.",
       "url": "https://ecsc.eu/",
-      "status": "CONFIRMADO"
+      "status": "ENCERRADO"
     },
     {
       "name": "ISACA São Paulo Summit",
