@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T15:12:35.990004+00:00",
+  "updated_at": "2026-10-30T15:01:40.700051+00:00",
   "events": [
     {
       "name": "Oxum Sec",
@@ -628,7 +628,7 @@
       "category": "Infraestrutura Crítica",
       "description": "Seminário técnico de cibersegurança para energia, automação e ambientes de missão crítica.",
       "url": "https://ce-d2.cigre.org.br/",
-      "status": "CONFIRMADO"
+      "status": "ENCERRADO"
     },
     {
       "name": "H2HC — Hackers to Hackers Conference",
