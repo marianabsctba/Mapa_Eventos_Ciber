@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T16:27:12.680772+00:00",
+  "updated_at": "2026-11-06T15:54:23.548202+00:00",
   "events": [
     {
       "name": "Oxum Sec",
@@ -653,7 +653,7 @@
       "category": "AppSec",
       "description": "Conferência global da OWASP dedicada à segurança de aplicações e software.",
       "url": "https://owasp.org/events/",
-      "status": "CONFIRMADO"
+      "status": "ENCERRADO"
     },
     {
       "name": "NullByte Security Conference",
